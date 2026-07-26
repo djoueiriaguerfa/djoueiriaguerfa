@@ -1,12 +1,3 @@
-Voici le `README.md` complet, prêt à copier-coller. Il est entièrement en anglais professionnel et présente séparément tes compétences confirmées, ton PFE et tes objectifs futurs.
-
-1. Ouvre ton [README GitHub](https://github.com/djoueiriaguerfa/djoueiriaguerfa/blob/main/README.md).
-2. Clique sur ✏️ **Edit this file**.
-3. Supprime le contenu actuel.
-4. Copie-colle tout le code ci-dessous.
-5. Clique sur **Commit changes**.
-
-````markdown
 <h1 align="center">Hi 👋, I'm Djoueiria Guerfa</h1>
 
 <h3 align="center">
@@ -249,4 +240,3 @@ print(djoueiria.mission())
          alt="Djoueiria Guerfa on GitHub" />
   </a>
 </p>
-````
