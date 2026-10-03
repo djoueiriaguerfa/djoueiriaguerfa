@@ -105,37 +105,7 @@ detection.
 
 ---
 
-## 🎯 Professional Vision
 
-```python
-class DjoueiriaGuerfa:
-    def __init__(self):
-        self.field = "Network and Distributed Systems"
-        self.skills = [
-            "Networking",
-            "Cybersecurity",
-            "System Administration",
-            "Virtualization",
-        ]
-        self.security_tools = [
-            "pfSense",
-            "Suricata",
-            "Splunk",
-            "SIEM",
-        ]
-        self.currently_learning = [
-            "CCNA",
-            "SOC Operations",
-            "Distributed Systems",
-        ]
-
-    def mission(self):
-        return "Building secure, reliable, and connected systems."
-
-
-djoueiria = DjoueiriaGuerfa()
-print(djoueiria.mission())
-```
 
 ---
 
