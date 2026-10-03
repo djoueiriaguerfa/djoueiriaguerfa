@@ -15,7 +15,7 @@ Currently learning CCNA and building hands-on networking and security projects.
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,php,mysql,linux,git,github,html,css,vscode" />
 </p>
 
 <h3 align="center">Learning</h3>
